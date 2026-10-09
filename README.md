@@ -21,5 +21,5 @@
 ---
 
 ### 📊 Statystyki
-![Stats](https://github-readme-stats.vercel.app/api?username=TWOJA_NAZWA&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=TWOJA_NAZWA&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=MrRoss&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=MrRoss&theme=radical)
